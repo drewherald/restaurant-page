@@ -1,4 +1,5 @@
 import buildHome from "./home";
+import "./style.css"
 
 buildHome();
 
